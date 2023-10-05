@@ -4,7 +4,7 @@ A cross-platform (Android/iOS/macOS/Windows/Linux) BluetoothLE plugin for Flutte
 
 > **Note:** It is a [federated plugin](https://docs.flutter.dev/development/packages-and-plugins/developing-packages#federated-plugins) structure
 
-## Usage
+## Usage _
 
 - [Scan BLE peripheral](quick_blue/README.md#scan-ble-peripheral)
 - [Connect BLE peripheral](quick_blue/README.md#connect-ble-peripheral)
